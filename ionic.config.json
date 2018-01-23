@@ -1,0 +1,8 @@
+{
+  "name": "picole",
+  "app_id": "7bc2806f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
